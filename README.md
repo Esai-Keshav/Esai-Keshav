@@ -1,17 +1,13 @@
-- 👋 Hi, I’m @Esai-Keshav
-- 👀 I’m interested in Artifical Intelligence, Machine Learning and Cutting-Edge Computing
-- 🌱 I’m currently learning about AI and ML
-- 💞️ I’m looking to collaborate on (Coming Soon)
-- 📫 How to reach me (Coming Soon)
+<h1 align="center">Hi 👋, I'm Esai Keshav</h1>
+<h3 align="center">🚀 I'm an enthusiastic and highly motivated self-made programmer, constantly exploring the frontiers of cutting-edge technologies. With a passion for innovation and a drive to tackle new challenges, I'm eager to connect with like-minded individuals and build something extraordinary together! Let's embark on an exciting journey of pushing boundaries and making a meaningful impact in the tech industry! 🌟</h3>
 
-✔️ As a self-made programmer and technology enthusiast, I am deeply passionate about exploring the latest advancements in cutting-edge technologies. From AI and ML to open source and edge computing, I am constantly pushing the boundaries of what is possible and seeking out new ways to make an impact in the tech industry. With a strong background in programming and a deep appreciation for the power of data and analytics, I have honed my skills through a combination of self-directed learning and practical experience
+🌱 I’m currently learning **Numpy,Pandas,Mathplotlib**
 
-My Linkedin profile : <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="esai-keshav" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/esai-keshav?trk=profile-badge">Esai Keshav</a></div>
-              
-              
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/esai-keshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="esai-keshav" height="30" width="40" /></a>
+<a href="https://kaggle.com/esaikeshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="esaikeshav" height="30" width="40" /></a>
+</p>
 
-
-<!---
-Esai-Keshav/Esai-Keshav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
