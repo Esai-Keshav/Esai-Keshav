@@ -2,9 +2,10 @@
 <h3 align="center">🚀 I'm an enthusiastic and highly motivated self-made programmer, constantly exploring the frontiers of cutting-edge technologies. With a passion for innovation and a drive to tackle new challenges, I'm eager to connect with like-minded individuals and build something extraordinary together! Let's embark on an exciting journey of pushing boundaries and making a meaningful impact in the tech industry! 🌟</h3>
 
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/esai-keshav" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)" alt="esai-keshav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/esai-keshav" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" /> </a>
 <a href="https://kaggle.com/esaikeshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="esaikeshav" height="30" width="40" /></a>
 <a href="https://medium.com/@esai_keshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@esai_keshav" height="30" width="40" /></a>
 </p>
