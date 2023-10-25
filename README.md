@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/esai-keshav" target="blank"><img align="center" src="https://img.icons8.com/color/48/linkedin.png" /> </a>
-<a href="https://kaggle.com/esaikeshav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="esaikeshav" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/esai-keshav" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="40" width="40" /> </a>
+<a href="https://kaggle.com/esaikeshav" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="esaikeshav" height="30" width="40" /></a>
 <a href="https://medium.com/@esai_keshav" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" alt="@esai_keshav" height="40" width="40" /></a>
 </p>
 
