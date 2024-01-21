@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/esai-keshav" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" height="40" width="40" /></a>
 <a href="https://kaggle.com/esaikeshav" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="esaikeshav" height="30" width="40" /></a>
 <a href="https://medium.com/@esai_keshav" target="blank"><img align="center" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" alt="@esai_keshav" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC28cfCOvDUDFwcGJ4vUCKDg" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Esai Keshav" height="40" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
